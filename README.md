@@ -73,6 +73,8 @@ Client-server chat applications are versatile tools that facilitate real-time co
 
 Client-server chat applications are foundational to real-time communication over networks. They incorporate principles of socket programming, communication protocols, and security mechanisms to provide a seamless user experience. Understanding the basics of client-server chat applications is essential for developers involved in networked application development, as they form the backbone of various collaborative communication systems. As technology evolves, chat applications continue to adapt, incorporating new features and technologies to enhance user interaction and connectivity.
 
+## Output:
+<img width="1566" height="1014" alt="image" src="https://github.com/user-attachments/assets/34c215d4-b1cb-46e2-bab6-7104c5611986" />
 
 ## Result:
 
